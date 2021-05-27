@@ -1,0 +1,50 @@
+----------SESSION------------
+
+Player 1 scored  0
+Player 2 scored  4
+Player 3 scored  14
+Player 4 won the game!
+Player 5 won the game!
+
+----------SESSION------------
+
+Player 1 scored  3
+Player 1 scored  3
+Player 2 scored  6
+Player 3 scored  0
+Player 4 won the game!
+Player 5 scored  0
+----------SESSION------------
+
+Player 1 scored  5
+Player 2 scored  22
+Player 3 won the game!
+----------SESSION------------
+
+Player 1 won the game!
+----------SESSION------------
+
+Player 1 won the game!
+Player 2 won the game!
+----------SESSION------------
+
+Player 1 scored  22
+----------SESSION------------
+
+----------SESSION------------
+
+----------SESSION------------
+
+Player 1 scored  14
+----------SESSION------------
+
+Player 1 won the game!
+Player 2 scored  0
+Player 3 scored  0
+Player 3 scored  0
+Player 3 scored  0
+Player 3 scored  0
+Player 3 scored  0
+----------SESSION------------
+
+Player 1 scored  6
